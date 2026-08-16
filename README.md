@@ -74,6 +74,7 @@ sdewes-waste-climate-analysis/
 │   └── SDEWES_paper.pdf
 ├── notebooks/
 ├── figures/
+├── tables/
 └── .gitignore
 ```
 
